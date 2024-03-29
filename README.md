@@ -16,18 +16,24 @@ Oh, whats that?
 
 Interesting interface...
 
-![Img 0](/progress1.png)
+![Img 1](/progress1.png)
 
 ---
 
 First challenge done!
 
-![Img 0](/progress2.png)
+![Img 2](/progress2.png)
 
 ---
 
 Do I want to submit my solutions to a google recruiter?
 
-![Img 0](/progress3.png)
+![Img 3](/progress3.png)
+
+---
+
+Almost there! Also google thinks I have more than one friend...
+
+![Img 4](/progress4.png)
 
 ---
