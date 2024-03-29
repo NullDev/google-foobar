@@ -44,3 +44,7 @@ solution.solution([14, 27, 1, 4, 2, 50, 3, 1], [2, 4, -4, 3, 1, 1, 14, 27, 50])
 
 Output:
     -4
+
+Use verify [file] to test your solution and see how it does.
+When you are finished editing your code, use submit [file] to submit your answer.
+If your solution passes the test cases, it will be removed from your home folder.

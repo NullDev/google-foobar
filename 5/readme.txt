@@ -78,3 +78,7 @@ solution.solution([[0, 1, 0, 0, 0, 1], [4, 0, 0, 3, 2, 0], [0, 0, 0, 0, 0, 0], [
 
 Output:
     [0, 3, 2, 9, 14]
+
+Use verify [file] to test your solution and see how it does.
+When you are finished editing your code, use submit [file] to submit your answer.
+If your solution passes the test cases, it will be removed from your home folder.
