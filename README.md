@@ -4,6 +4,8 @@ My solutions to the google foobar challenges
 
 Needless to say, it wont get me any job...
 
+Disclaimer: I decided to make this repo public because Google Foobar will go down on April 1st 2024.
+
 ---
 
 ## Progress 
