@@ -1,5 +1,5 @@
 # Google FooBar Challenge 1
-# Python 2.7
+# Python 2.7.13
 # Forbidden Imports: bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib
 
 def solution(x, y):
