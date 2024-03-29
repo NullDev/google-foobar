@@ -1,0 +1,2 @@
+Type request to request a challenge.
+Type help for a list of commands.
